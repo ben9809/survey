@@ -542,3 +542,8 @@
 
 - username: james.bond@polito.it, password: password 
 - username: black.jack@polito.it, password: password
+
+## Info 
+[Course Content](http://media.polito.it/wordpress/classes/aw1/index.html)
+
+[Project Details](https://elite.polito.it/files/courses/01TXYOV/2021/exam/WA1_exam1_survey_FINAL.pdf)
