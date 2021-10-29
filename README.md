@@ -31,7 +31,7 @@
           },
           {
             "id": 47,
-            "name": "Criptocurrency",
+            "name": "Cryptocurrency",
             "tot_answers": 0
           }
         ]
