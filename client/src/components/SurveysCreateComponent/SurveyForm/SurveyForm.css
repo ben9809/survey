@@ -1,0 +1,89 @@
+.form-survey-container {
+    background-color: #ECEDF3;
+    height: 100%;
+    padding-bottom: 40px
+}
+
+.form-survey-page {
+    width: 780px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20px;
+    background-color: #fff;
+    padding-top: 25px;
+    padding-bottom: 90px;    
+}
+
+.form-position {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+
+.form-add-question {
+    border-top: #ddd solid 1.5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.show-question {
+    margin-top: 1em;
+    border-top: #ddd solid 1.5px;
+    padding-bottom: 1.5em;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.fa-trash-alt {
+    color :red
+}
+
+.form-add-input {
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border-left-width: 0px;
+    padding-right: 0px;
+    border-right-width: 0px;
+    border-radius: unset;
+    width: 30%;
+}
+.form-control-feedback {
+  position: relative;
+  display: block;   
+  color: red;
+  margin-left: 2px;
+  margin-top: 5px;
+  font-size: 12px; 
+  font-family: Helvetica; 
+}
+.surveyname-control-feedback {
+  text-align: left;
+  position: relative;
+  display: block;   
+  color: red;
+  margin-left: 22px;
+  margin-top: -5px;
+  font-size: 12px; 
+  font-family: Helvetica; 
+}
+
+.dot {
+  height: 5px;
+  width: 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin-bottom: 2px;
+}
+
+.pointer {
+    pointer-events: none;
+}

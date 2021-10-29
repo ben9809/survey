@@ -1,0 +1,41 @@
+.center-login {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh; 
+}
+
+.form-show {
+  display: block;
+  position: relative;
+  padding: 30px;
+  max-width: 500px;
+  min-width: 300px;
+  max-height: 700px;
+  min-height: 350px;
+  width: 30%;
+  border: 1px solid;
+border-radius: 20px;
+}
+
+.h2-form {
+  position: relative;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.login-image {
+    width: 35%;
+    margin-top: -105px;
+    background: white;
+    padding-bottom: 22px;
+}
+.form-group-login {
+  padding-bottom: 5px;
+}
+
+.form-label-login {
+  font-family: revert;
+}

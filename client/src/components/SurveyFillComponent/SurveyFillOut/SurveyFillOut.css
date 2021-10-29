@@ -1,0 +1,31 @@
+.survey-title {
+  font-size: 3.3em;
+  font-family: "Montserrat", sans-serif;
+}
+.subtitle-survey {
+  color: #444344;
+}
+
+.form-control-feedback {
+  position: relative;
+  display: block;   
+  color: red;
+  margin-left: 2px;
+  margin-top: 5px;
+  font-size: 12px; 
+  font-family: Helvetica;
+   
+}
+.username-control-feedback {
+  text-align: left;
+  margin-left: 22px;
+  margin-top: -5px;
+}
+
+.alert-danger-fill {
+  color: #842029;
+  background-color: #f8d7da;
+  border-color: #f5c2c7;
+  margin-right: 20px; 
+  margin-left: 20px;
+}

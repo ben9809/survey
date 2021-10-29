@@ -1,0 +1,33 @@
+.pagination-position {
+    padding-top: 35px;
+  
+}
+
+.fixed-right-home {
+    position: fixed;
+    right: 0;
+    margin-left: 347px;
+    bottom: 0;
+    margin-right: 25px;
+    margin-bottom: 15px;
+  
+}
+
+.form-survey-page-clone {
+    width: 780px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20px;
+    background-color: #fff;
+    padding-top: 25px;
+    padding-bottom: 90px;  
+    height: 85%  
+}
+
+.no-answer-font {
+    position: relative;
+    top: 20px;
+    font-size: 2rem;
+    color: red
+}
